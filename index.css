@@ -30,6 +30,7 @@ h1{
     text-align: center;
 }
 .eee{
+    outline: none;
     margin-top: 30px;
     margin-left: 110px;
     width: 260px;
